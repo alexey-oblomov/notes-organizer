@@ -1,0 +1,2 @@
+(this["webpackJsonpnotes-organizer"]=this["webpackJsonpnotes-organizer"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),o=t.n(r),a=t(2);var s=function(){return o.a.createElement("div",{className:"App"},"Notes organizer")};t.n(a).a.render(o.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.3d885ce2.chunk.js.map
