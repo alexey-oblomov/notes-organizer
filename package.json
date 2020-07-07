@@ -1,5 +1,6 @@
 {
   "name": "notes-organizer",
+  "homepage": "https://alexey-oblomov.github.io/notes-organizer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
